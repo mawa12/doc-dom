@@ -1,0 +1,43 @@
+/* general info */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,500;1,700&display=swap'); */
+container {
+    max-width: 1170px;
+    margin: 0 auto;
+   background-color:  white;
+}
+body {
+    background-color: green;
+   
+}
+section.stylesct {
+    margin: 10% 17%;
+    background: #FFFFFF;
+    padding: 20px;
+}
+.part1{
+
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+  padding-top: 10%;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+}
+.part2{
+
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+  padding-top: 10%;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+}
+.part3{
+
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+  padding-top: 10%;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+}
